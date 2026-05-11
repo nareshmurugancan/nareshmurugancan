@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naresh Kumar</h1>
-<h3 align="center">DevOps | Platform Engineer | Cloud Infrastructure | Kubernetes</h3>
+<h3 align="center">Senior DevOps | Platform Engineer | Cloud Infrastructure | Kubernetes</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer;Platform+Engineering;Kubernetes+%7C+AWS+%7C+Terraform;GitOps+%7C+CI%2FCD+%7C+Observability;Always+Learning+New+Technologies&center=true&width=800&height=45">
